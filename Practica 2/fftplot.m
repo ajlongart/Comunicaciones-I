@@ -1,3 +1,10 @@
+%% Función que calcula la transformada de Fourier de las señales continuas.
+
+%Consiste en:
+% calcular la TF
+% valor absoluto de TF
+% centrar la TF
+
 function [X]=fftplot(x,fs)
 
 % Calcula la fft, y corrige el espectro para ver el nivel DC en el Origen
