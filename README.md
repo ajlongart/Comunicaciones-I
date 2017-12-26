@@ -10,9 +10,10 @@ En este repositorio se colocarán las prácticas de laboratorio de esta materia 
 Práctica I: Modulación SSB
 Práctica Ia: Modulación AM
 Práctica II: Modulación FM y Receptor Superheterodino
-Práctica IV:
-Práctica V:
+Práctica IV: Codificación de Fuentes Discretas
+Práctica V: Cuantificación Uniforme y No Uniforme
 
-Se usa MATLAB para las simulaciones
+Los enunciados de las prácticas están contenidas en las carpetas respectivas (archivos .pdf)
 
-(En Construccción)
+Se usa MATLAB para las simulaciones.
+
